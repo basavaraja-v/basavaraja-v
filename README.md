@@ -1,4 +1,4 @@
-# Hello I'm Basavaraja V [](https://tenor.com/view/waving-hi-hello-emoji-wave-gif-11366012)  👋
+# Hello I'm Basavaraja V <img src="https://emojis.slackmojis.com/emojis/images/1643514869/8809/wave_hello.gif?1643514869" width="30"/>
 
 ### About me
 
