@@ -1,6 +1,6 @@
 ### Hello I'm Basavaraja V 👋
 
-#About me
+# About me
 
 - 🔭 Full Stack Developer at Futorix Solutions Pvt. Ltd. 
 - 🌱 I’m currently learning FastAPI
