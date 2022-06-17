@@ -1,4 +1,4 @@
-# Hello I'm Basavaraja V <img src="https://emojis.slackmojis.com/emojis/images/1643514869/8809/wave_hello.gif?1643514869" width="30"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514869/8809/wave_hello.gif?1643514869" width="30"/>, I'm Basavaraja V
 
 ### About me
 
