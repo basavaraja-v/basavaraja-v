@@ -2,7 +2,7 @@
 
 ### About me
 
-- 🔭 Full Stack Developer at [Software Engineer | Founder of CSSDezigns at HeyiDB](http://heyidb.com/)
+- 🔭 Software Engineer | Founder of CSSDezigns at [HeyiDB](http://heyidb.com/)
 - 🌱 I’m currently learning FastAPI and Machine Learning Algorithms - [Repository](https://github.com/royaldevops/Machine-Learning-Notebooks)
 - 💬 Ask me about [here](https://github.com/basavaraja-v/basavaraja-v/issues)
 - 📫 How to reach me: https://www.linkedin.com/in/basavarajav/
